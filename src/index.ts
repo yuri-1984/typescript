@@ -27,7 +27,13 @@
 // import typeAliasSample from './object/alias'
 // typeAliasSample()
 // objectSample()
-import arraySample from './array/array'
-arraySample()
-import tupleSample from './array/tuple'
-tupleSample()
+// import arraySample from './array/array'
+// arraySample()
+// import tupleSample from './array/tuple'
+// tupleSample()
+
+//0７. ジェネリック型とポリモーフィズム
+import genericBasicSample from './generics/basic'
+genericBasicSample()
+import genericAdvancedSample from './generics/advanced'
+genericAdvancedSample()
